@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="app_notice">Enter two numbers</string>
+    
+    <string name="action_settings">Settings</string>
+    
+    <string name="button_addition">+</string>
+    <string name="button_subtraction">-</string>
+    <string name="button_division">/</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_clear">Clr</string>
+    
+    <string name="equals_sign">=</string>
+    <string name="result_placeholder">0.00</string>
+    
+</resources>
